@@ -4,6 +4,6 @@ public class BTest {
 		
 		System.out.println("BTest 첫 커밋");
 		System.out.println("BTest 두번째 커밋 : A사용자 ");
-
+		System.out.println("BTest 두번째 커밋");
 	}
 }
